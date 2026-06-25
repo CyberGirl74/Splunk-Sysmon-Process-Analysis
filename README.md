@@ -29,12 +29,14 @@ This project demonstrates how I used Splunk Enterprise and Microsoft Sysmon to i
 
 ## Sample SPL Queries
 
-### Top Executed Processes
+### 1. Top 10 Most Frequently Executed Processes
 
-```spl
+This query identifies the most frequently executed processes captured by Sysmon Event ID 1. Reviewing the most common processes helps establish a baseline of normal system activity, making it easier to identify unusual or suspicious process execution during future investigations.
+
 index=* EventCode=1
-| top Image limit=10
-```
+Image="*powershell.exe"
+| stats count by ParentImage
+| sort -count
 
 ### Most Common Parent Processes
 
