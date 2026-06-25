@@ -101,7 +101,7 @@ These are legitimate Splunk Enterprise components responsible for indexing, moni
 
 This project provided valuable hands-on experience using Splunk Enterprise to investigate Windows Sysmon logs. I learned how to write SPL queries, analyze parent-child process relationships, identify frequently executed processes, and establish a baseline of normal Windows behavior.
 
-Although this investigation did not identify malicious activity, it reinforced one of the most important principles of cybersecurity: before detecting threats, analysts must first understand what normal system activity looks like.
+Although this investigation did not identify malicious activity, it reinforced one of the most important principles of cybersecurity: before detecting threats, analysts must first understand what normal system activity looks like. It was an excellent practice lab.
 
 ---
 
