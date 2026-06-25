@@ -108,3 +108,19 @@ Although this investigation did not identify malicious activity, it reinforced o
 ## Security Note
 
 Some screenshots and host-specific information have been intentionally omitted or sanitized before publication to protect system details. This repository demonstrates investigative techniques while following responsible cybersecurity documentation practices.
+
+---
+---
+
+<p align="center">
+
+**Created by Shauna "Storm" Davis**
+
+Cybersecurity Student | Aspiring SOC Analyst | Blue Team Enthusiast
+
+GitHub: https://github.com/CyberGirl74
+
+June 2026
+
+</p>
+
