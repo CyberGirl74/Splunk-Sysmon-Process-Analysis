@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how I used Splunk Enterprise 10.4 and Microsoft Sysmon to analyze Windows process creation events using Sysmon Event ID 1. The purpose of this lab was to gain hands-on experience writing Splunk Search Processing Language (SPL) queries, investigate parent-child process relationships, establish a baseline of normal Windows activity, and strengthen foundational blue team investigation skills.
+This project shows how I used Splunk Enterprise 10.4 and Microsoft Sysmon to analyze Windows process creation events using Sysmon Event ID 1. The purpose of this lab was to gain hands-on experience writing Splunk Search Processing Language (SPL) queries, investigate parent-child process relationships, establish a baseline of normal Windows activity, and strengthen foundational blue team investigation skills.
 
 ---
 
